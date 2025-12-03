@@ -1,7 +1,5 @@
 ## EMA Indicator - Pinescript
-
 ---
-
 ## ⚙️ __**Installation | FR**__
 
 > `1 |` Ouvrir [TradingView](https://tradingview.com/)
@@ -23,6 +21,6 @@
 
 📌 __**Links :**__
 > `├─` [**EMA Indicator (Code)**](https://github.com/Toast-Cyberia/EMA-Indicator)
+> 
 > `└─` [**Github | Toast (Website)**](https://github.com/Toast-Cyberia)
-
 ---
