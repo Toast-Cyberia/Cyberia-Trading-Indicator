@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Installation
+## ⚙️ Installation
 
 1. Open [TradingView](https://tradingview.com/)
 2. Go to the Pine Script editor
